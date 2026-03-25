@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_eletronicos"
+        android:title="Eletrônicos"
+        android:icon="@mipmap/ic_launcher"/>
+
+    <item android:id="@+id/nav_roupas"
+        android:title="Roupas"
+        android:icon="@mipmap/ic_launcher"/>
+
+    <item android:id="@+id/nav_livros"
+        android:title="Livros"
+        android:icon="@mipmap/ic_launcher"/>
+</menu>
